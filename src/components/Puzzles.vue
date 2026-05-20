@@ -63,7 +63,7 @@ export default {
   flex-wrap: wrap;
   flex-direction: column;
   justify-content: space-between;
-  background: rgba(255, 0, 0, 0.093);
+  background: rgba(39, 190, 115, 0.09);
   margin: auto;
   padding: 20px;
 }

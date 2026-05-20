@@ -46,5 +46,6 @@ button.update-button {
     border-radius: 25px;
     background-color: darkslategrey;
     border: none;
+    justify-content:space-between;
 }
 </style>
